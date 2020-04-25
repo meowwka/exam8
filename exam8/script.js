@@ -17,3 +17,6 @@ async function getCountries() {
     let response = await fetch(all);
     return await response.json();
 }
+getCountries().then(data => console.log(data));
+
+
