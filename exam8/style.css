@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+.container{
+    align-content: center;
+}
+h2{
+    text-align: center;
+}
